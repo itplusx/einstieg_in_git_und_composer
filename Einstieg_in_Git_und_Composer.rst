@@ -14,6 +14,8 @@ Basics
 ======
 Git ist eine Software zur verteilten Versionswerwaltung von Dateien:
 
+Kleine Ã„nderung von der TUGS
+
 - **Was heist verteilt?**
     - Es gibt keinen zentralen Server.
     - Jedes Repository ist "eigenständig".
